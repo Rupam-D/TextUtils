@@ -1,3 +1,5 @@
+TextUtilsr: Free software utility which allows you to find the most frequent phrases and frequencies of words. It also counts number of words characters sentences and syllable.
+
 <h2>Output</h2>
 
 ![Screenshot 2023-04-23 221657](https://user-images.githubusercontent.com/108547929/234200074-f514d4da-77bc-40cd-9104-b848ced4963b.png)
