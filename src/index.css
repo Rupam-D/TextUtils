@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.containerr {
+  height: 90vh;
+  width: 100vw;
+  background-color: rgb(167, 228, 232);
+  padding-top: 10px;
+  padding-left: 100px;
+  /* display: inline-block; */
+  justify-content: center;
+  /* allign-items: center; */
+
+}
+
+#floatingTextarea2bold {
+  font-weight: bold;
+}
+
+/* div {
+  display: inline-block;
+} */
+
+/* h2 {
+  border: 2px solid red;
+  display: inline-block;
+} */
